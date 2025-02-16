@@ -1,0 +1,57 @@
+body {
+    background-color: hsla(17, 89%, 49%, 0.918);
+}
+h1 {
+    color: rgba(16, 98, 250, 0.884);
+    background-color: hsla(76, 79%, 59%, 0.93)
+}
+
+h2 {
+    color: rgba(16, 242, 250, 0.884);
+    background-color: hsla(313, 79%, 53%, 0.93)
+}
+
+h3 {
+    color: rgba(37, 218, 1, 0.884);
+    background-color: hsla(0, 83%, 53%, 0.93)
+}
+
+h4 {
+    color: rgba(16, 250, 141, 0.884);
+    background-color: hsla(244, 75%, 45%, 0.93)
+}
+
+h5 {
+    color: rgba(16, 98, 250, 0.884);
+    background-color: hsla(76, 79%, 59%, 0.93)
+}
+
+h6 {
+    color: rgba(71, 250, 16, 0.884);
+    background-color: hsla(135, 75%, 48%, 0.93)
+}
+
+
+
+p {
+    color: hsla(241, 93%, 61%, 0.95);
+    background-color: hsla(21, 78%, 90%, 0.98);
+}
+
+ol {
+    color: rgb(229, 35, 247);
+    background-color: hsla(120, 90%, 80%, 0.93)
+}
+
+ol li {
+    font-weight: bold;
+}
+
+ul {
+    color: hsla(56, 56%, 90%, 1);
+    background-color: rgb(73, 11, 216);;
+}
+
+ul li {
+    text-decoration: underline;
+}
